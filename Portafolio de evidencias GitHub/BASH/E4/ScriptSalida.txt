@@ -1,0 +1,9 @@
+Tu sistema operativo es: Linux
+Nodo con IP: 10.0.2.15 esta funcionando.
+Nodo con IP: 10.0.2.4 esta funcionando.
+Nodo con IP: 10.0.2.3 esta funcionando.
+Nodo con IP: 10.0.2.2 esta funcionando.
+Nodo con IP: 10.0.2.3 esta funcionando.
+Nodo con IP: 10.0.2.2 esta funcionando.
+Nodo con IP: 10.0.2.15 esta funcionando.
+Nodo con IP: 10.0.2.4 esta funcionando.
